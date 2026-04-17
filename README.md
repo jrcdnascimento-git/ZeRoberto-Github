@@ -6,8 +6,8 @@
 ### Objetivos: produzir um material para fixação sobre economia fundamental
 
 ### Curadoria de Fontes
-( * ) PDF
-![Conceitos Fundamentais da Economia](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://portal.toledoprudente.edu.br/upload/usuarios/10733/aulas/2_aula01.pdf)
+
+[Conceitos Fundamentais da Economia] (https://portal.toledoprudente.edu.br/upload/usuarios/10733/aulas/2_aula01.pdf)
 
 ### Engenharia de Prompts e "Cicatrizes"
 
